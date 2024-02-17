@@ -1,0 +1,15 @@
+/* .para{
+    color:chartreuse;
+}
+.newClass{
+    background-color: blueviolet;
+} */
+button {
+    margin-top: 20%;
+    height: 60px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: darkcyan;
+    font-size: 25px;
+    color: antiquewhite;
+}
